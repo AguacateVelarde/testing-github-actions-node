@@ -1,0 +1,23 @@
+{
+  "name": "money",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AguacateVelarde/money.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AguacateVelarde/money/issues"
+  },
+  "homepage": "https://github.com/AguacateVelarde/money#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
