@@ -1,5 +1,5 @@
 function sum(a, b) {
-  return a + b;
+  return a + b; 
 }
 
 test("Adding 1 + 1 equals 2", () => {
